@@ -46,10 +46,6 @@ iframe {
 	right: 0px;
 	top: 0px;
 	bottom: auto;
-	/*margin-top: 0px;
-	margin-bottom: auto;
-	margin-left: 0px;
-	margin-right: 0px;*/
 	text-align: center;
 	width: 100%;
 	padding: 0px;
@@ -75,7 +71,7 @@ iframe {
 	text-decoration: none;
 	text-align: center;
 	width: 100%;
-	background: rgba(0, 0, 0, 0.5);
+	background: rgba(0, 0, 0, 1.0);
 	padding: 0px;
 }
 
