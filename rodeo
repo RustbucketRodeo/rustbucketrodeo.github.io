@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name=viewport content="width=device-width, initial-scale=1">
+	<title>Rodeo</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="../img/favicon.ico" type="image/x-icon">
+	<link href='https://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet'>
+</head>
+
+<body class="releasesite">
+	<div class="main">
+		<h1>Stream / Buy "Rodeo" here:</h1>
+		<a href="https://music.apple.com/us/album/rodeo/1467230016" target="_blank">
+			<img alt="iTunes" src="img/itunes.svg" class="extlogo">
+		</a>
+		<a href="https://open.spotify.com/album/11VIGUhKgId5y0YgEQjyw2" target="_blank">
+			<img alt="Spotify" src="img/spotify.svg" class="extlogo">
+		</a>
+		<a href="https://www.youtube.com/watch?v=D3lCbKshILM" target="_blank">
+			<img alt="YouTube" src="img/youtube.svg" class="extlogo">
+		</a>
+		<a href="https://play.google.com/store/music/album?id=Bqabqobjeq6shx742pyzupoznme" target="_blank">
+			<img alt="Google Play" src="img/googleplay.svg" class="extlogo">
+		</a>
+		<a href="https://www.amazon.com/Rodeo-Rustbucket/dp/B07SVGBGP5/" target="_blank">
+			<img alt="Amazon" src="img/amazon.svg" class="extlogo">
+		</a>
+		<a href="https://www.deezer.com/album/99435562" target="_blank">
+			<img alt="Deezer" src="img/deezer.svg" class="extlogo">
+		</a>
+		<a href="https://tidal.com/browse/album/110724390" target="_blank">
+			<img alt="Tidal" src="img/tidal.svg" class="extlogo">
+		</a>
+		<a href="https://napster.com/artist/rustbucket-rodeo/album/rodeo-382585349" target="_blank">
+			<img alt="Napster" src="img/napster.svg" class="extlogo">
+		</a>
+		<a href="https://www.iheart.com/artist/rustbucket-rodeo-32683485/albums/rodeo-74358343/" target="_blank">
+			<img alt="iHeartRadio" src="img/iheartradio.svg" class="extlogo">
+		</a>
+		<a href="http://www.mndigital.com/content-experience/music_content/albums/460211179/Rustbucket_Rodeo/Rodeo/"
+			target="_blank">
+			<img alt="MediaNet" src="img/medianet.svg" class="extlogo">
+		</a>
+		<img src="img/rodeo.jpg" alt="Rodeo Cover Artwork" class="release_artwork">
+	</div>
+</body>
+
+</html>
