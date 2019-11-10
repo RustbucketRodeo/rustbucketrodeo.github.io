@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /techrider.pdf
+Disallow: /techrider-de.pdf
+Disallow: /techrider-en.pdf
